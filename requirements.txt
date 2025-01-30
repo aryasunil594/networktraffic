@@ -3,3 +3,4 @@ scikit-learn
 streamlit
 tensorflow
 matplotlib
+seaborn
